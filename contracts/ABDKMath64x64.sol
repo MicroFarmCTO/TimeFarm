@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: BSD-4-Clause
 /*
  * ABDK Math 64.64 Smart Contract Library.  Copyright © 2019 by ABDK Consulting.
- * Author: Mikhail Vladimirov <mikhail.vladimirov@gmail.com>
+ * Author: Mikhail Vladimirov // Third Fork Under "24" ( ADA - OpenAI model 4 ) 
  */
 pragma solidity ^0.8.0;
 
